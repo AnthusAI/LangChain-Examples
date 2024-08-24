@@ -1,6 +1,6 @@
 # LangChain Examples
 
-**LangChain by Example** is a collection of Python notebooks demonstrating various use cases for LangChain.
+This is a collection of Python notebooks demonstrating various use cases for LangChain.
 
 ## Examples
 
