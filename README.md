@@ -4,7 +4,7 @@ This is a collection of Python notebooks demonstrating various use cases for Lan
 
 ## Examples
 
-### Example 1: Use AI Models from Any Company's API
+### [Use AI Models from Any Company's API](notebooks/AI_API_Multiplexer.ipynb)
 
 This notebook shows how to connect your code to multiple AI APIs using LangChain. LangChain manages the differences in input/output structures and parameters across APIs, so you can focus on your application logic.
 
